@@ -1,0 +1,15 @@
+﻿  chasse au tresor.cpp
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\calcu chasse au tresore.h(20,5): error C2365: 'tresor' : redéfinition ; la précédente définition était 'fonction'
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\calcu chasse au tresore.h(15,5): message : voir la déclaration de 'tresor'
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(12,23): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(79,17): warning C4566: le caractère représenté par le nom de caractère universel '\u2800' ne peut pas être représenté dans la page de codes actuelle (1252)
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(84,17): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(97,11): warning C4129: '~' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(97,11): warning C4129: '.' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(98,11): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(99,11): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(100,11): warning C4129: '/' : caractère de séquence d'échappement non reconnu
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\chasse au tresor.cpp(101,11): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+  maps chasse au tresor.cpp
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\calcu chasse au tresore.h(20,5): error C2365: 'tresor' : redéfinition ; la précédente définition était 'fonction'
+J:\01_ECOLE\ecole 2\ecole\c++\projet 06.09.20223\chasse au tresor\calcu chasse au tresore.h(15,5): message : voir la déclaration de 'tresor'
